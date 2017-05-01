@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Fenner Flashlight v1.0</string>
+    <string name="app_name">Fenner Flashlight</string>
+    <string name="admob_id"></string>
 </resources>
